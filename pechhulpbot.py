@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Themattmen & Ingetypt. All rights reserved.
+# Zie LICENSE bestand voor de volledige licentvoorwaarden.
+
 import os
 import discord
 from discord import app_commands
